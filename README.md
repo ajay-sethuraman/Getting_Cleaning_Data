@@ -1,7 +1,7 @@
 # Getting & Cleaning Data
 Course Project for Getting &amp; Cleaning Data
 
-* The R script, `run_analysis.R` has been uploaded and it performs the mentioned operations:
+The R script, `run_analysis.R` has been uploaded and it performs the mentioned operations:
 
 1. Downloading the dataset if it does not already exist.
 2. Reading the dataset.
